@@ -42,7 +42,7 @@
 + `apt update -y`
 + `apt upgrade -y`
 + `apt install git -y`
-+ `git clone https://github.com/VritraSecz/GPTX.git/`
++ `git clone https://github.com/devrdxdev1/GPTX.git/`
 + `cd GPTX`
 + `chmod +x *`
 + `bash setup.sh`
